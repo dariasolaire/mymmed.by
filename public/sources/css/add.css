@@ -1,0 +1,18 @@
+.ui-widget-content .ui-state-disabled.ui-datepicker-today,
+.ui-widget-header .ui-state-disabled.ui-datepicker-today {
+    opacity: 1;
+    border-color: #38897d;
+    background: #38897d;
+    color: #fff;
+}
+.ui-datepicker-today {
+    opacity: 1;
+    border-color: #0cc6aa;
+    background: #0cc6aa;
+    color: #fff;
+}
+.ui-widget-content .ui-datepicker-today .ui-state-active {
+    border-color: #024464;
+    background: #024464;
+    color: #fff;
+}

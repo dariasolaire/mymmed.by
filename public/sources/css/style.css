@@ -1,0 +1,54 @@
+@import url("disable-browser-styles.css");
+@import url("bootstrap-grid.luto.css");
+@import url("fancybox.min.css");
+@import url("owl.carousel.min.css");
+@import url("select2.min.css");
+@import url("luto.css");
+/*@import url("xxx-chosen.min.css");*/
+/*@import url("xxx-formstyler.css");*/
+/*@import url("xxx-mousewheel-classic.css");*/
+/*@import url("xxx-mCustomScrollbar.css");*/
+
+/*_CUSTOM*/
+
+
+/*_CUSTOM END*/
+
+@media (max-width: 1400px) {
+
+  .owl-carousel.nav-outside .owl-stage-outer {padding-bottom: 60px;}
+  .owl-carousel.nav-outside .owl-nav .owl-prev {left: auto;right: 50px;}
+  .owl-carousel.nav-outside .owl-nav [class*=owl-] {top:auto;bottom: 10px;}
+
+}
+
+@media (max-width: 1199px) {
+
+
+}
+
+@media (max-width: 991px) {
+
+  article img {width: auto !important; height: auto !important;}
+  .img-article-left,
+  .img-article-right {float: none !important;}
+  
+}
+
+@media (max-width: 767px) {
+
+
+}
+
+@media (max-width: 575px) {
+
+}
+
+@media (max-width: 419px) {
+
+}
+
+@media (max-width: 359px) {
+
+}
+
